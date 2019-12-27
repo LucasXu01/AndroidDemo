@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity implements Callback {
         imageView = findViewById(R.id.iv_image);
 
         // 内存泄漏
+        // Runnable是匿名内部类，对当前Activity都有一个隐式引用。
+        // 如果Activity在销毁之前，任务还未完成， 那么将导致Activity的内存资源无法回收，造成内存泄漏。
         new Thread(new Runnable() {
             @Override
             public void run() {
