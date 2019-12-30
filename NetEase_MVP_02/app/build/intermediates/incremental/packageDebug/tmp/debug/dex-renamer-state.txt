@@ -1,0 +1,4 @@
+#Mon Dec 30 16:30:33 CST 2019
+base.0=/Users/lucas/SourceTreeProject/AndroidDemo/NetEase_MVP_02/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
