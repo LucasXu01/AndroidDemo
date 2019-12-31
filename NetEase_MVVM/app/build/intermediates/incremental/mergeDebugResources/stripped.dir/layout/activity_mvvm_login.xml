@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <!-- 定义该布局需要绑定的数据名称和类型 -->
+    
+                 
+                                 
+                                                        
+           
+
+    <!-- 下部分内容和平时布局文件一样 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/activity_mvvm_login_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:tag="binding_1"                                             
+            android:hint="请输入账户"
+                                                           />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:tag="binding_2"                                            
+            android:hint="请输入密码"
+                                                          />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:tag="binding_3"                               
+            android:text="登录" />
+
+    </LinearLayout>
+         
