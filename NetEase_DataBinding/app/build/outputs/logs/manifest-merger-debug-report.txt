@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/cc738394fd6aed9d63d933fb2cd22a02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/fcbc453fc01b5197d6e158fa55a53000/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/016f9e4e57ad95313b3cbf1522d697bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/efaeb71091d7306c530e9bf500a24695/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/83f66a20a02e0d0130f560797c76bb99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/7ce8451fa58743a426d2d9e21f7b82d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/58e71e87788b70060911c60dc68a67c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e69c4b4afb08a1a0425a89e8b873c9c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1d90afc94597870601bcf63a09a60842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/63ec57de4787466733cc156b8b6d3dfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/c51d36cee8ac320369c18642e3157cb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/71153b0be446fe5d3d6dbfe8a6f028aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/ec2f3cb9593936d3c5e1f12064834e7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/562ebab5b8150915f302e68d4e6907b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/206e1725b41b07b4aae180ec91eb405b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/81d5e514cbfc4ae4cfcb5cadbb063c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1f2a23a1e6114213e58415ee1be9ce14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/bec1b049aad6ac0fdb6d50945cfc9493/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/f2079db9923801ff8c6630376ae43510/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/dbde7707a331ba1fbfe936be2026d905/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/12cdfe762ff7281114ca8ccbb336ad4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/714eb30f79a05c5b44aab2778f3ea6bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/d38b54e63a70e4218b37c7a8c70c71c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/756790c1d3c297292c3b9bdf8cbf01c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3b8805a42f81bd658512f616a132005e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e8f4b2af6ec53fc2ab7c58a92020804f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/6c2602cb8913aa72c923687c9ebe75b6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/bec1b049aad6ac0fdb6d50945cfc9493/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/bec1b049aad6ac0fdb6d50945cfc9493/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.netease.databinding.MainActivity
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/cc738394fd6aed9d63d933fb2cd22a02/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/cc738394fd6aed9d63d933fb2cd22a02/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/fcbc453fc01b5197d6e158fa55a53000/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/fcbc453fc01b5197d6e158fa55a53000/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/016f9e4e57ad95313b3cbf1522d697bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/016f9e4e57ad95313b3cbf1522d697bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/efaeb71091d7306c530e9bf500a24695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/efaeb71091d7306c530e9bf500a24695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/83f66a20a02e0d0130f560797c76bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/83f66a20a02e0d0130f560797c76bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/7ce8451fa58743a426d2d9e21f7b82d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/7ce8451fa58743a426d2d9e21f7b82d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/58e71e87788b70060911c60dc68a67c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/58e71e87788b70060911c60dc68a67c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e69c4b4afb08a1a0425a89e8b873c9c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e69c4b4afb08a1a0425a89e8b873c9c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1d90afc94597870601bcf63a09a60842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1d90afc94597870601bcf63a09a60842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/63ec57de4787466733cc156b8b6d3dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/63ec57de4787466733cc156b8b6d3dfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/c51d36cee8ac320369c18642e3157cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/c51d36cee8ac320369c18642e3157cb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/71153b0be446fe5d3d6dbfe8a6f028aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/71153b0be446fe5d3d6dbfe8a6f028aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/ec2f3cb9593936d3c5e1f12064834e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/ec2f3cb9593936d3c5e1f12064834e7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/562ebab5b8150915f302e68d4e6907b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/562ebab5b8150915f302e68d4e6907b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/206e1725b41b07b4aae180ec91eb405b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/206e1725b41b07b4aae180ec91eb405b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/81d5e514cbfc4ae4cfcb5cadbb063c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/81d5e514cbfc4ae4cfcb5cadbb063c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3af9c6260e0a2a4c9c43cddb25a352e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1f2a23a1e6114213e58415ee1be9ce14/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/1f2a23a1e6114213e58415ee1be9ce14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/bec1b049aad6ac0fdb6d50945cfc9493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/bec1b049aad6ac0fdb6d50945cfc9493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/f2079db9923801ff8c6630376ae43510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/f2079db9923801ff8c6630376ae43510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/dbde7707a331ba1fbfe936be2026d905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/dbde7707a331ba1fbfe936be2026d905/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/12cdfe762ff7281114ca8ccbb336ad4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/12cdfe762ff7281114ca8ccbb336ad4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/714eb30f79a05c5b44aab2778f3ea6bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/714eb30f79a05c5b44aab2778f3ea6bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/d38b54e63a70e4218b37c7a8c70c71c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/d38b54e63a70e4218b37c7a8c70c71c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/756790c1d3c297292c3b9bdf8cbf01c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/756790c1d3c297292c3b9bdf8cbf01c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3b8805a42f81bd658512f616a132005e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/3b8805a42f81bd658512f616a132005e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e8f4b2af6ec53fc2ab7c58a92020804f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lucas/.gradle/caches/transforms-2/files-2.1/e8f4b2af6ec53fc2ab7c58a92020804f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/6c2602cb8913aa72c923687c9ebe75b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lucas/.gradle/caches/transforms-2/files-2.1/6c2602cb8913aa72c923687c9ebe75b6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/src/main/AndroidManifest.xml

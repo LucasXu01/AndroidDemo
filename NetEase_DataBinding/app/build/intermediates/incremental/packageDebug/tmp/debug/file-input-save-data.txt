@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jan 02 16:40:35 CST 2020
+0.baseType=DIRECTORY
+0.base=/Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Thu Jan 02 16:40:35 CST 2020
+base.0=/Users/lucas/Downloads/安卓学习/架构师/jiagoushi-master 2/1.2.5 MVVM与DataBinding/NetEase_DataBinding/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
